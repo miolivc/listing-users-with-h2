@@ -1,4 +1,4 @@
-# **Instruções de Uso do Archetype:  **
+# Instruções de Uso do Archetype:
 
 1. Faça clone deste repositório:  
 	git clone https://github.com/ads-ifpb-praticas/michelle-archetype  </br>
